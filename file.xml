@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+i<?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneBook>
-    <Title>Remote Phonebook</Title>
+    <Title>Equipment Division Phone list</Title>
     <Menu Name="Company Directory">
-        <Name>Entry 1</Name>
-        <Phone>1234567890</Phone>
+        <Name>Israel</Name>
+        <Phone>3435483918</Phone>
     </Menu>
-    <Menu Name="Another Directory">
+    <Menu Name="Future Phone List Here">
         <Name>Entry 2</Name>
         <Phone>9876543210</Phone>
     </Menu>
