@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PhoneBook>
-  <Contact>
-    <Name>Israel</Name>
-    <Phone>3435483918</Phone>
-  </Contact>
-  <!-- Add more contacts as needed -->
-</PhoneBook>
+<YealinkIPPhoneBook>
+    <Title>Remote Phonebook</Title>
+    <Menu Name="Company Directory">
+        <Name>Entry 1</Name>
+        <Phone>1234567890</Phone>
+    </Menu>
+    <Menu Name="Another Directory">
+        <Name>Entry 2</Name>
+        <Phone>9876543210</Phone>
+    </Menu>
+    <!-- Add more entries as needed -->
+</YealinkIPPhoneBook>
