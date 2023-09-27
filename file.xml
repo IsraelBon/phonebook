@@ -1,19 +1,19 @@
 <YealinkIPPhoneDirectory>
 
     <DirectoryEntry>
-        <Name>Israel Bonhomme</Name>
+        <Name>3 - Israel Bonhomme</Name>
         <Telephone label="Office">235</Telephone>
         <Telephone label="Mobile">3435483918</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
-        <Name>Rob Roston</Name>
+        <Name>2 - Rob Roston</Name>
         <Telephone label="Office">234</Telephone>
         <Telephone label="Mobile">4383415908</Telephone>
     </DirectoryEntry>
 
         <DirectoryEntry>
-        <Name>Greg Miller</Name>
+        <Name>1 - Greg Miller</Name>
         <Telephone label="Office">233</Telephone>
         <Telephone label="Mobile">6133150731</Telephone>
     </DirectoryEntry>
