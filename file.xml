@@ -1,23 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneBook>
-    <Title>Remote Phonebook</Title>
-    <Menu Name="Company Directory">
-        <Name>Entry 1</Name>
-        <YealinkIPPhoneDirectory>
-            <DirectoryEntry>
-                <Name>Israel</Name>
-                <Telephone>3435483918</Telephone>
-            </DirectoryEntry>
-            <DirectoryEntry>
-                <Name>Test</Name>
-                <Telephone>12345</Telephone>
-            </DirectoryEntry>
-            <!-- Add more directory entries as needed -->
-        </YealinkIPPhoneDirectory>
-    </Menu>
-    <Menu Name="Another Directory">
-        <Name>Entry 2</Name>
-        <!-- Add entries for this directory as needed -->
-    </Menu>
-    <!-- Add more menus/directories as needed -->
-</YealinkIPPhoneBook>
+<YealinkIPPhoneDirectory>
+
+    <DirectoryEntry>
+        <Name>Israel</Name>
+        <Telephone>3435483918</Telephone>
+        <Telephone>1234567890</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Test</Name>
+        <Telephone>0987654321</Telephone>
+    </DirectoryEntry>
+
+</YealinkIPPhoneDirectory>
