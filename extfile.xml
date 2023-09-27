@@ -25,9 +25,10 @@
     </DirectoryEntry>
 
      <DirectoryEntry>
-        <Name>Cooper - Rob Sadler</Name>
+        <Name>Cooper - Rob Sadler - Rental Rep.</Name>
         <Telephone label="Office">6137222323</Telephone>
         <Telephone label="Mobile">6135810868</Telephone>
+        <Telephone label="Other">6132261099</Telephone>
     </DirectoryEntry>
 
      <DirectoryEntry>
@@ -115,18 +116,444 @@
     </DirectoryEntry>
 
      <DirectoryEntry>
+        <Name>Black Ink - Garnett - Manager</Name>
+        <Telephone label="Mobile">7809874924</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Brandt - Noaman Ashraf - Parts Advisor</Name>
+        <Telephone label="Office">6138314044</Telephone>
+        <Telephone label="Mobile">6133234289</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Brandt - Fritzler Saurel - Customer Support</Name>
+        <Telephone label="Office">6138314044</Telephone>
+        <Telephone label="Dial extension">2404</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Brokk - Parts Department</Name>
+        <Telephone label="Office">3602172020</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Brokk - Miles - Parts</Name>
+        <Telephone label="Mobile">4257541801</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Cooper - Gabrielle Washburn - Rental Coordinator</Name>
+        <Telephone label="Office">6136969334</Telephone>
+        <Telephone label="Mobile">3435419635</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>CRD - Mark Foy - Branch Manager</Name>
+        <Telephone label="Office">6138317278</Telephone>
+        <Telephone label="Mobile">6134356877</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Cropac - Megan Sveda - Service Advisor</Name>
+        <Telephone label="Office">9058257817</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
         <Name></Name>
         <Telephone label="Office"></Telephone>
         <Telephone label="Mobile"></Telephone>
     </DirectoryEntry>
 
-     <DirectoryEntry>
+    <DirectoryEntry>
         <Name></Name>
         <Telephone label="Office"></Telephone>
         <Telephone label="Mobile"></Telephone>
     </DirectoryEntry>
 
-     <DirectoryEntry>
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+<DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
         <Name></Name>
         <Telephone label="Office"></Telephone>
         <Telephone label="Mobile"></Telephone>
