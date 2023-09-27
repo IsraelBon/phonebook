@@ -43,9 +43,63 @@
     </DirectoryEntry>
 
      <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
+        <Name>Hosie & Brown</Name>
+        <Telephone label="Office">6137418112</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>IDE - Jeff Fuller</Name>
+        <Telephone label="Office">12894233184</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Interline - Jimmy Manna</Name>
+        <Telephone label="Office">4167542211</Telephone>
+        <Telephone label="Mobile">4169841495</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>JD Brulée - Randy Woods</Name>
+        <Telephone label="Mobile">6137940698</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Parts for trucks</Name>
+        <Telephone label="Office">6137413360</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Rapco - Alain </Name>
+        <Telephone label="Mobile">6137955002</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Sunbelt - Riley Carr</Name>
+        <Telephone label="Mobile">6472157643</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Sunbelt - Tom Jewer</Name>
+        <Telephone label="Mobile">6138990733</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Toromont CAT - Kanata</Name>
+        <Telephone label="Office">6138365171</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Traction Heavy Duty Parts</Name>
+        <Telephone label="Office">6137421209</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
     </DirectoryEntry>
 
      <DirectoryEntry>
@@ -77,58 +131,5 @@
         <Telephone label="Office"></Telephone>
         <Telephone label="Mobile"></Telephone>
     </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
-
-     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
-    </DirectoryEntry>
+    
 </YealinkIPPhoneDirectory>
