@@ -2,158 +2,147 @@
 
     <DirectoryEntry>
         <Name>Battlefield - Gloucester</Name>
-        <Telephone>6137366868</Telephone>
+        <Telephone label="Office">6137366868</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name>Brokk - Mike Martin</Name>
-        <Telephone>3607941277</Telephone>
+        <Telephone label="Mobile">3607941277</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name></Name>
-        <Telephone></Telephone>
-        <Telephone></Telephone>
+        <Telephone label=""></Telephone>
     </DirectoryEntry>
 
-    
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label=""></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label=""></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name></Name>
+        <Telephone label=""></Telephone>
+    </DirectoryEntry>
 
 </YealinkIPPhoneDirectory>
