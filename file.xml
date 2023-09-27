@@ -1,44 +1,37 @@
-<YealinkIPPhoneDirectory>
-
-    <Menu Name="EXTERNAL CONTACTS">
-
-        <DirectoryEntry>
-        <Name>BATTLEFIELD GLOUCESTER</Name>
-        <Telephone>6137366868</Telephone>
-    </DirectoryEntry>
-
-      <DirectoryEntry>
-        <Name>BROKK-MIKE MARTIN</Name>
-        <Telephone>3607941277</Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name>BSAC</Name>
-        <Telephone>6138215100</Telephone>
-    </DirectoryEntry>
-
-          </Menu>
-
-     <Menu Name="INTERNAL CONTACTS">
-
-         <DirectoryEntry>
-        <Name>ISRAEL BONHOMME</Name>
-        <Telephone>235</Telephone>
-        <Telephone>3435483918</Telephone>
-    </DirectoryEntry>
-
- <DirectoryEntry>
-        <Name>GREG MILLER</Name>
-        <Telephone>233</Telephone>
-        <Telephone>6133150731</Telephone>
-    </DirectoryEntry>
-    
-    <DirectoryEntry>
-        <Name>ROB ROSTON</Name>
-        <Telephone>234</Telephone>
-        <Telephone>4383415908</Telephone>
-    </DirectoryEntry>
-
-          </Menu>
-    
-</YealinkIPPhoneDirectory>
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+    <Title>Remote Phonebook</Title>
+    <YealinkIPPhoneDirectory>
+        <Menu Name="EXTERNAL CONTACTS">
+            <DirectoryEntry>
+                <Name>BATTLEFIELD GLOUCESTER</Name>
+                <Telephone>6137366868</Telephone>
+            </DirectoryEntry>
+            <DirectoryEntry>
+                <Name>BROKK-MIKE MARTIN</Name>
+                <Telephone>3607941277</Telephone>
+            </DirectoryEntry>
+            <DirectoryEntry>
+                <Name>BSAC</Name>
+                <Telephone>6138215100</Telephone>
+            </DirectoryEntry>
+        </Menu>
+        <Menu Name="INTERNAL CONTACTS">
+            <DirectoryEntry>
+                <Name>ISRAEL BONHOMME</Name>
+                <Telephone>235</Telephone>
+                <Telephone>3435483918</Telephone>
+            </DirectoryEntry>
+            <DirectoryEntry>
+                <Name>GREG MILLER</Name>
+                <Telephone>233</Telephone>
+                <Telephone>6133150731</Telephone>
+            </DirectoryEntry>
+            <DirectoryEntry>
+                <Name>ROB ROSTON</Name>
+                <Telephone>234</Telephone>
+                <Telephone>4383415908</Telephone>
+            </DirectoryEntry>
+        </Menu>
+    </YealinkIPPhoneDirectory>
+</YealinkIPPhoneBook>
