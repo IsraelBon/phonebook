@@ -1,16 +1,12 @@
 <YealinkIPPhoneDirectory>
 
     <DirectoryEntry>
-        <Name>Israel</Name>
         <Name>Israel Bonhomme</Name>
         <Telephone>235</Telephone>
         <Telephone>3435483918</Telephone>
-        <Telephone>1234567890</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
-        <Name>Test</Name>
-        <Telephone>0987654321</Telephone>
         <Name>Rob Roston</Name>
         <Telephone>234</Telephone>
         <Telephone>4383415908</Telephone>
