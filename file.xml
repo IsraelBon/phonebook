@@ -2,20 +2,20 @@
 
     <DirectoryEntry>
         <Name>Israel Bonhomme</Name>
-        <Telephone>235</Telephone>
-        <Telephone>3435483918</Telephone>
+        <Telephone type="office">235</Telephone>
+        <Telephone type="mobile">3435483918</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name>Rob Roston</Name>
-        <Telephone>234</Telephone>
-        <Telephone>4383415908</Telephone>
+        <Telephone type="office">234</Telephone>
+        <Telephone type="mobile">4383415908</Telephone>
     </DirectoryEntry>
 
         <DirectoryEntry>
         <Name>Greg Miller</Name>
-        <Telephone>233</Telephone>
-        <Telephone>6133150731</Telephone>
+        <Telephone type="office">233</Telephone>
+        <Telephone type="mobile">6133150731</Telephone>
     </DirectoryEntry>
 
 </YealinkIPPhoneDirectory>
