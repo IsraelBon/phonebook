@@ -366,5 +366,11 @@
         <Telephone label="Office">6132952895</Telephone>
         <Telephone label="Mobile">N/A</Telephone>
     </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Canus Plastics Inc. - Darlin</Name>
+        <Telephone label="Office">6132322657</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
     
 </YealinkIPPhoneDirectory>
