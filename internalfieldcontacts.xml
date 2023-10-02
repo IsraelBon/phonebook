@@ -97,12 +97,6 @@
     </DirectoryEntry>
 
       <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-      <DirectoryEntry>
         <Name>Scott Babin</Name>
         <Telephone label="Mobile">6132239425</Telephone>
         <Telephone label="Office">N/A</Telephone>
