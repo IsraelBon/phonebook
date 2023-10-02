@@ -199,35 +199,15 @@
     </DirectoryEntry>
 
       <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>D'Arcy Comerford</Name>
+        <Telephone label="Mobile">6134068621</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
       <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Prathee Arulanathan</Name>
+        <Telephone label="Mobile">6132947171</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
-
-      <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-      <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-      <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    
 
 </YealinkIPPhoneDirectory>
