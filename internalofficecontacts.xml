@@ -24,6 +24,12 @@
         <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
+      <DirectoryEntry>
+        <Name>Ian Mokaya</Name>
+        <Telephone label="Mobile">6132625479</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
     <DirectoryEntry>
         <Name>Kevin Cinq-Mars</Name>
         <Telephone label="Mobile">6133017322</Telephone>
