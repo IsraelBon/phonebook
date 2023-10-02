@@ -204,4 +204,10 @@
         <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
+     <DirectoryEntry>
+        <Name>Gerry Zappa</Name>
+        <Telephone label="Mobile">6132663501</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
 </YealinkIPPhoneDirectory>
