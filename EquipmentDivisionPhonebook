@@ -4,7 +4,222 @@
     
     <MenuItem>
         <Prompt>Internal Office Contacts Test</Prompt>
-        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/internalofficecontacts.xml</URI>
+
+   <DirectoryEntry>
+        <Name>3 - Israel Bonhomme</Name>
+        <Telephone label="Office">235</Telephone>
+        <Telephone label="Mobile">3435483918</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>2 - Rob Roston</Name>
+        <Telephone label="Office">234</Telephone>
+        <Telephone label="Mobile">4383415908</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>1 - Greg Miller</Name>
+        <Telephone label="Office">233</Telephone>
+        <Telephone label="Mobile">6133150731</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>David McPhedran</Name>
+        <Telephone label="Mobile">6137913020</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name>Ian Mokaya</Name>
+        <Telephone label="Mobile">6132625479</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Kevin Cinq-Mars</Name>
+        <Telephone label="Mobile">6133017322</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Humberto Ferrer</Name>
+        <Telephone label="Mobile">6133141676</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Marathon Greely Head Office</Name>
+        <Telephone label="Office">6138214800</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Anna Kosheleva</Name>
+        <Telephone label="Mobile">6134002434</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Chris Duval</Name>
+        <Telephone label="Mobile">6132992391</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Gedi Ibrahim</Name>
+        <Telephone label="Mobile">6132821367</Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Gil Tardif</Name>
+        <Telephone label="Mobile">15814438918</Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Guillaume Laferriere</Name>
+        <Telephone label="Mobile">6133151550</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Hamza Ourahhou</Name>
+        <Telephone label="Mobile">6138682482</Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Mario Venditti</Name>
+        <Telephone label="Mobile">6132293317</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Mike Cross</Name>
+        <Telephone label="Mobile">6132292646</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Pierre Vallieres</Name>
+        <Telephone label="Mobile">6137954064</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Rick Maidment - Operation Manager Alberta</Name>
+        <Telephone label="Mobile">15876430967</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Tristan McPhedran</Name>
+        <Telephone label="Mobile">6137959416</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Joel Lavergne</Name>
+        <Telephone label="Mobile">6138808324</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Bryan Swain</Name>
+        <Telephone label="Mobile">6138987803</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Terry Wright</Name>
+        <Telephone label="Mobile">6133719829</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Bob Watson</Name>
+        <Telephone label="Mobile">6132973059</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Emily Gibson</Name>
+        <Telephone label="Mobile">6138982734</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Julie Kinsella</Name>
+        <Telephone label="Mobile">6133257096</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Kevin O'Connor</Name>
+        <Telephone label="Mobile">6132948640</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Lee Stechyson</Name>
+        <Telephone label="Mobile">6138214800</Telephone>
+        <Telephone label="Office">TO BE ADDED</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Lora Woods</Name>
+        <Telephone label="Mobile">17809023487</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>James Smith (Jim)</Name>
+        <Telephone label="Mobile">6138042978</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Gilbert Mclaughlin</Name>
+        <Telephone label="Mobile">6138804152</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Steven Foster</Name>
+        <Telephone label="Mobile">6138682532</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Sebastien Guenette</Name>
+        <Telephone label="Mobile">6132238953</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Jenison Cudney</Name>
+        <Telephone label="Mobile">6132293963</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name>D'Arcy Comerford</Name>
+        <Telephone label="Mobile">6134068621</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name>Prathee Arulanathan</Name>
+        <Telephone label="Mobile">6132947171</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+     <DirectoryEntry>
+        <Name>Gerry Zappa</Name>
+        <Telephone label="Mobile">6132663501</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
     </MenuItem>
 
     <MenuItem>
