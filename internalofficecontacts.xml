@@ -157,12 +157,6 @@
     </DirectoryEntry>
 
     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
         <Name>Lee Stechyson</Name>
         <Telephone label="Mobile">6138214800</Telephone>
         <Telephone label="Office">TO BE ADDED</Telephone>
@@ -183,7 +177,7 @@
     <DirectoryEntry>
         <Name>Gilbert Mclaughlin</Name>
         <Telephone label="Mobile">6138804152</Telephone>
-        <Telephone label="Office"></Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
@@ -194,14 +188,44 @@
 
     <DirectoryEntry>
         <Name>Sebastien Guenette</Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Telephone label="Mobile">6132238953</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
         <Name>Jenison Cudney</Name>
         <Telephone label="Mobile">6132293963</Telephone>
         <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Mobile"></Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Mobile"></Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Mobile"></Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Mobile"></Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+      <DirectoryEntry>
+        <Name></Name>
+        <Telephone label="Mobile"></Telephone>
+        <Telephone label="Office"></Telephone>
     </DirectoryEntry>
 
     
