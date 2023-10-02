@@ -103,9 +103,57 @@
     </DirectoryEntry>
 
     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Tristan McPhedran</Name>
+        <Telephone label="Mobile">6137959416</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Joel Lavergne</Name>
+        <Telephone label="Mobile">6138808324</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Mike Cross</Name>
+        <Telephone label="Mobile">6132292646</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Bryan Swain</Name>
+        <Telephone label="Mobile">6138987803</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Terry Wright</Name>
+        <Telephone label="Mobile">6133719829</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Bob Watson</Name>
+        <Telephone label="Mobile">6132973059</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Emily Gibson</Name>
+        <Telephone label="Mobile">6138982734</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Julie Kinsella</Name>
+        <Telephone label="Mobile">6133257096</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Kevin O'Connor</Name>
+        <Telephone label="Mobile">6132948640</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
@@ -115,93 +163,45 @@
     </DirectoryEntry>
 
     <DirectoryEntry>
-        <Name></Name>
+        <Name>Lee Stechyson</Name>
+        <Telephone label="Mobile">6138214800</Telephone>
+        <Telephone label="Office">TO BE ADDED</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Lora Woods</Name>
+        <Telephone label="Mobile">17809023487</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>James Smith (Jim)</Name>
+        <Telephone label="Mobile">6138042978</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Gilbert Mclaughlin</Name>
+        <Telephone label="Mobile">6138804152</Telephone>
+        <Telephone label="Office"></Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Steven Foster</Name>
+        <Telephone label="Mobile">6138682532</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Sebastien Guenette</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
     </DirectoryEntry>
 
     <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Jenison Cudney</Name>
+        <Telephone label="Mobile">6132293963</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
     
