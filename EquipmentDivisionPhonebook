@@ -1,0 +1,22 @@
+<YealinkIPPhoneDirectory>
+    <DirectoryEntry>
+        <Name>External Contacts Test</Name>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/externalcontacts.xml</URI>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Internal Office Contacts Test</Name>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/internalofficecontacts.xml</URI>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Internal Field Contacts Test</Name>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/internalfieldcontacts.xml</URI>
+    </DirectoryEntry>
+
+    <DirectoryEntry>
+        <Name>Mobile Mechanic Service Contacts Test</Name>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/mobilemechanicservicecontacts</URI>
+    </DirectoryEntry>
+
+</YealinkIPPhoneDirectory>
