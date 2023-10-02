@@ -1,63 +1,45 @@
 <YealinkIPPhoneDirectory>
 
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
+       <DirectoryEntry>
+        <Name>Christine Ko</Name>
+        <Telephone label="Mobile">6138074393</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
-    <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
+      <DirectoryEntry>
+        <Name>Hanane Boujaha</Name>
+        <Telephone label="Mobile">6132821088</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
-        <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Office"></Telephone>
-        <Telephone label="Mobile"></Telephone>
+      <DirectoryEntry>
+        <Name>Jenni Bouchard</Name>
+        <Telephone label="Mobile">6133258851</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
        <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Laury Baillargeon</Name>
+        <Telephone label="Mobile">8195933460</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
       <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Mike Cunningham</Name>
+        <Telephone label="Mobile">6132267450</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
       <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Troy Skinner</Name>
+        <Telephone label="Mobile">6132942854</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
        <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-      <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-      <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-    </DirectoryEntry>
-
-       <DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
+        <Name>Alain Robichaud</Name>
+        <Telephone label="Mobile">6132295110</Telephone>
+        <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
       <DirectoryEntry>
