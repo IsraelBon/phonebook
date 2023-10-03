@@ -1,63 +1,58 @@
 <YealinkIPPhoneDirectory>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Luke Zappa</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Gerry Zappa</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Chris Gartshore</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Leon Radaelli</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Dylan Bielawski</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Diogo Da Silva</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Joey Henri</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Gaston Dube</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
 <DirectoryEntry>
-        <Name></Name>
+        <Name>Eric Fiset</Name>
         <Telephone label="Mobile"></Telephone>
         <Telephone label="Office"></Telephone>
 </DirectoryEntry>
 
-<DirectoryEntry>
-        <Name></Name>
-        <Telephone label="Mobile"></Telephone>
-        <Telephone label="Office"></Telephone>
-</DirectoryEntry>
 
 </YealinkIPPhoneDirectory>
