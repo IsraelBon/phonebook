@@ -1,7 +1,19 @@
-<YealinkIPPhoneMenu>
-    <Title>Main Menu</Title>
-    <MenuItem>
-        <Prompt>Phonebook test</Prompt>
-        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/externalcontacts.xml</URI>
-    </MenuItem>
-</YealinkIPPhoneMenu>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<YealinkIPPhoneTextMenu
+defaultIndex = "integer"
+style = "none"
+Beep = "no"
+wrapList="yes"
+cancelAction = "URI"
+previous = “URI”
+LockIn = "yes/no"
+>
+<Title wrap = "yes/no">Menu Title</Title>
+<MenuItem>
+<Prompt>First menu item</Prompt>
+<URI>HTTP(s) URL</URI>
+<Dial>Number for dial</Dial >
+<Selection>Selection</Selection>
+</MenuItem>
+<!--Additional menu items may be added (up to 30) -->
+
