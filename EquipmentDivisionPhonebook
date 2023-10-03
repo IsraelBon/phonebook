@@ -1,1 +1,7 @@
-
+<YealinkIPPhoneMenu>
+    <Title>Main Menu</Title>
+    <MenuItem>
+        <Prompt>Phonebook test</Prompt>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/externalcontacts.xml</URI>
+    </MenuItem>
+</YealinkIPPhoneMenu>
