@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneTextMenu defaultIndex="1" style="numbered" wrapList="yes">
+    <Title>Main Menu</Title>
+    <MenuItem>
+        <Prompt>Option 1</Prompt>
+        <URI>http://example.com/option1.xml</URI>
+    </MenuItem>
+    <MenuItem>
+        <Prompt>Option 2</Prompt>
+        <URI>http://example.com/option2.xml</URI>
+    </MenuItem>
+    <MenuItem>
+        <Prompt>Option 3</Prompt>
+        <URI>http://example.com/option3.xml</URI>
+    </MenuItem>
+</YealinkIPPhoneTextMenu>
