@@ -2,15 +2,15 @@
 <YealinkIPPhoneTextMenu defaultIndex="1" style="numbered" wrapList="yes">
     <Title>Main Menu</Title>
     <MenuItem>
-        <Prompt>Option 1</Prompt>
-        <URI>http://example.com/option1.xml</URI>
+        <Prompt>Test 1</Prompt>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/internalofficecontacts.xml</URI>
     </MenuItem>
     <MenuItem>
-        <Prompt>Option 2</Prompt>
-        <URI>http://example.com/option2.xml</URI>
+        <Prompt>Test 2</Prompt>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/internalfieldcontacts.xml</URI>
     </MenuItem>
     <MenuItem>
-        <Prompt>Option 3</Prompt>
-        <URI>http://example.com/option3.xml</URI>
+        <Prompt>Test 3</Prompt>
+        <URI>https://raw.githubusercontent.com/IsraelBon/phonebook/main/externalcontacts.xml</URI>
     </MenuItem>
 </YealinkIPPhoneTextMenu>
