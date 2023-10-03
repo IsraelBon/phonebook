@@ -144,10 +144,4 @@
         <Telephone label="Office">N/A</Telephone>
     </DirectoryEntry>
 
-       <DirectoryEntry>
-        <Name>William Watson</Name>
-        <Telephone label="Mobile">6133713861</Telephone>
-        <Telephone label="Office">N/A</Telephone>
-    </DirectoryEntry>
-
 </YealinkIPPhoneDirectory>
