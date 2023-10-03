@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <YealinkIPPhoneTextMenu
-defaultIndex = "integer"
+defaultIndex = "1"
 style = "none"
 Beep = "no"
 wrapList="yes"
-cancelAction = "URI"
-previous = “URI”
-LockIn = "yes/no"
+LockIn = "no"
 >
-<Title wrap = "yes/no">Menu Title</Title>
+<Title wrap = "yes">Menu Title</Title>
+
+<MenuItem>
+<Prompt>First menu item</Prompt>
+<URI>HTTP(s) URL</URI>
+<Dial>Number for dial</Dial >
+<Selection>Selection</Selection>
+</MenuItem>
+
+<MenuItem>
+<Prompt>First menu item</Prompt>
+<URI>HTTP(s) URL</URI>
+<Dial>Number for dial</Dial >
+<Selection>Selection</Selection>
+</MenuItem>
+
+<MenuItem>
+<Prompt>First menu item</Prompt>
+<URI>HTTP(s) URL</URI>
+<Dial>Number for dial</Dial >
+<Selection>Selection</Selection>
+</MenuItem>
+
+<MenuItem>
+<Prompt>First menu item</Prompt>
+<URI>HTTP(s) URL</URI>
+<Dial>Number for dial</Dial >
+<Selection>Selection</Selection>
+</MenuItem>
+
 <MenuItem>
 <Prompt>First menu item</Prompt>
 <URI>HTTP(s) URL</URI>
