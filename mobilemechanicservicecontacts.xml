@@ -62,6 +62,18 @@
         <Telephone label="Phone 2">7058520151</Telephone>
 </DirectoryEntry>
 
+        <DirectoryEntry>
+        <Name>Mecanique Mobile 24/7-Trois Rivieres/Becancour</Name>
+        <Telephone label="Phone 1">8199446394</Telephone>
+        <Telephone label="Phone 2">/Telephone>
+</DirectoryEntry>
+
+           <DirectoryEntry>
+        <Name>GDL Heavy Equipment-Thunder bay</Name>
+        <Telephone label="Phone 1">8076290230</Telephone>
+        <Telephone label="Phone 2">/Telephone>
+</DirectoryEntry>
+
 
 </YealinkIPPhoneDirectory>
 
