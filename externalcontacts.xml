@@ -6,6 +6,12 @@
         <Telephone label="Mobile">N/A</Telephone>
     </DirectoryEntry>
 
+       <DirectoryEntry>
+        <Name>Strongco-Ottawa</Name>
+        <Telephone label="Office">6138366633</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+
         <DirectoryEntry>
         <Name>ICE - Michael Tarlton</Name>
         <Telephone label="Office Dial Ext. 1173">7048218200</Telephone>
