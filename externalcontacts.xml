@@ -7,6 +7,12 @@
     </DirectoryEntry>
 
         <DirectoryEntry>
+        <Name>ICE - Michael Tarlton</Name>
+        <Telephone label="Office Dial Ext. 1173">7048218200</Telephone>
+        <Telephone label="Mobile">7046985394</Telephone>
+    </DirectoryEntry>
+
+        <DirectoryEntry>
         <Name>Liebherr-Andrew Mountjoy-Parts Advisor</Name>
         <Telephone label="Office">9053196618</Telephone>
         <Telephone label="Mobile">N/A</Telephone>
@@ -141,7 +147,7 @@
 
      <DirectoryEntry>
         <Name>Brandt - Fritzler Saurel - Parts Advisor</Name>
-        <Telephone label="Office, Dial Extension 2404">6138314044</Telephone>
+        <Telephone label="Office, Dial Ext. 2404">6138314044</Telephone>
         <Telephone label="Mobile">N/A</Telephone>
     </DirectoryEntry>
 
@@ -171,7 +177,7 @@
 
     <DirectoryEntry>
         <Name>Diedrich - Kevin Chadderdon</Name>
-        <Telephone label="Office, Dial Extension 2340">2193267788</Telephone>
+        <Telephone label="Office, Dial Ext. 2340">2193267788</Telephone>
         <Telephone label="Mobile">2193441254</Telephone>
     </DirectoryEntry>
 
@@ -183,7 +189,7 @@
 
     <DirectoryEntry>
         <Name>Drive Products - Dave</Name>
-        <Telephone label="Office, Dial Extension 3171">6136914196</Telephone>
+        <Telephone label="Office, Dial Ext. 3171">6136914196</Telephone>
         <Telephone label="Mobile">N/A</Telephone>
     </DirectoryEntry>
 
@@ -225,7 +231,7 @@
 
     <DirectoryEntry>
         <Name>Gervais Electronics - Steven Valentine-Page - Sales Rep.</Name>
-        <Telephone label="Office, Dial Extension 255">6137383101</Telephone>
+        <Telephone label="Office, Dial Ext. 255">6137383101</Telephone>
         <Telephone label="Mobile">N/A</Telephone>
     </DirectoryEntry>
 
