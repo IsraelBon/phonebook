@@ -1,6 +1,12 @@
 <YealinkIPPhoneDirectory>
 
 <DirectoryEntry>
+        <Name>Rene Fink(NexGen)-Timmins</Name>
+        <Telephone label="Office">7052642120</Telephone>
+        <Telephone label="Mobile">7053603231</Telephone>
+</DirectoryEntry>
+        
+<DirectoryEntry>
         <Name>Mike's Mobile Welding-Timmins,Sudbury,North Bay</Name>
         <Telephone label="Phone 1">7053657161</Telephone>
         <Telephone label="Phone 2">N/A</Telephone>
