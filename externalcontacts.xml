@@ -1,11 +1,17 @@
 <YealinkIPPhoneDirectory>
 
  <DirectoryEntry>
-        <Name>Cap. Equip. Leasing-Kevin Fiset</Name>
+        <Name>Cap.Equip.Leasing-Kevin Fiset</Name>
         <Telephone label="Office">N/A</Telephone>
         <Telephone label="Mobile">6139138882</Telephone>
     </DirectoryEntry>
-    
+
+ <DirectoryEntry>
+        <Name>AMB Lift-Geoff Brisson</Name>
+        <Telephone label="Office">6132291208</Telephone>
+        <Telephone label="Mobile">N/A</Telephone>
+    </DirectoryEntry>
+ 
     <DirectoryEntry>
         <Name>Battlefield-Gloucester</Name>
         <Telephone label="Office">6137366868</Telephone>
