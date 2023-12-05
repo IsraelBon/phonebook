@@ -1,5 +1,11 @@
 <YealinkIPPhoneDirectory>
 
+<DirectoryEntry>
+        <Name>Christine Ko</Name>
+        <Telephone label="Mobile">6138074393</Telephone>
+        <Telephone label="Office">N/A</Telephone>
+</DirectoryEntry>
+    
     <DirectoryEntry>
         <Name>3 - Israel Bonhomme</Name>
         <Telephone label="Office">235</Telephone>
